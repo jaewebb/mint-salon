@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Open Sans';
+}
+
+.logo {
+  font-family: 'Montserrat';
+  font-size: 1.2rem;
+}
+
+h1, .h1 {
+  font-family: 'Montserrat';
+  font-size: 2rem;
+}
+
+h2, .h2 {
+  font-family: 'Montserrat';
+  font-size: 1.8rem;
+}
+
+h3, .h3 {
+  font-family: 'Montserrat';
+  font-size: 1.6rem;
+}
+
+h4, .h4 {
+  font-family: 'Montserrat';
+  font-size: 1.4rem;
+}
+
+h5, .h5 {
+  font-family: 'Montserrat';
+  font-size: 1.2rem;
+}
+
+h6, .h6 {
+  font-family: 'Open Sans';
+  font-size: 1rem;
+}
+
+.fade-in {
+	opacity: 1;
+	animation-name: opacityFade;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 0.5s;
+}
+
+@keyframes opacityFade {
+	0% { opacity: 0; }
+	100% { opacity: 1; }
+}

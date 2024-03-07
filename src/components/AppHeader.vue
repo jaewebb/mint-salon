@@ -1,7 +1,7 @@
 <template>
   <div>
     <header class="flex bg-black text-white p-5 fixed w-screen bg-opacity-50 z-50">
-      Mint Salon
+      <span class="logo">Mint Salon</span>
       <nav class="grow text-right">
         <RouterLink
           to="/"
