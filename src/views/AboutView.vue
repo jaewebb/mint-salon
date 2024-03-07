@@ -1,15 +1,10 @@
 <template>
-  <div class="about">
-    <h1>Coming Soon</h1>
-  </div>
+  <main>
+    <div class="pt-20">
+      <h1 class="text-center">Coming Soon</h1>
+    </div>
+  </main>
 </template>
 
 <style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
 </style>
