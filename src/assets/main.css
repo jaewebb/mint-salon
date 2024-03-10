@@ -6,11 +6,6 @@ body {
   font-family: 'Open Sans';
 }
 
-.logo {
-  font-family: 'Montserrat';
-  font-size: 1.2rem;
-}
-
 h1, .h1 {
   font-family: 'Montserrat';
   font-size: 2rem;
@@ -60,10 +55,15 @@ h6, .h6 {
 	100% { opacity: 1; }
 }
 
+.border-primary {
+  border: 1px solid #607B68;
+}
+
 .c-primary {
   color: #607B68;
 }
 
-.border-primary {
-  border: 1px solid #607B68;
+.logo {
+  font-family: 'Montserrat';
+  font-size: 1.2rem;
 }

@@ -1,6 +1,6 @@
 <template>
   <header class="flex bg-black text-white p-5 fixed w-screen bg-opacity-60 z-50">
-    <span class="logo">Mint Salon</span>
+    <span class="logo"><i class="fa-solid fa-leaf mint-leaf"></i> Mint Salon</span>
     <nav class="grow text-right">
       <RouterLink
         to="/"
@@ -10,6 +10,7 @@
       </RouterLink>
       <RouterLink
         to="/services"
+        class="mr-3"
       >
         Services
       </RouterLink>
@@ -27,5 +28,7 @@
 </script>
 
 <style scoped>
-
+.mint-leaf {
+  color:#A8BBAD;
+}
 </style>
