@@ -14,31 +14,37 @@ body {
 h1, .h1 {
   font-family: 'Montserrat';
   font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 h2, .h2 {
   font-family: 'Montserrat';
   font-size: 1.8rem;
+  margin-bottom: 1rem;
 }
 
 h3, .h3 {
   font-family: 'Montserrat';
   font-size: 1.6rem;
+  margin-bottom: 0.5rem;
 }
 
 h4, .h4 {
   font-family: 'Montserrat';
   font-size: 1.4rem;
+  margin-bottom: 0.5rem;
 }
 
 h5, .h5 {
   font-family: 'Montserrat';
   font-size: 1.2rem;
+  margin-bottom: 0.5rem;
 }
 
 h6, .h6 {
   font-family: 'Open Sans';
   font-size: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .fade-in {
@@ -52,4 +58,12 @@ h6, .h6 {
 @keyframes opacityFade {
 	0% { opacity: 0; }
 	100% { opacity: 1; }
+}
+
+.c-primary {
+  color: #607B68;
+}
+
+.border-primary {
+  border: 1px solid #607B68;
 }
