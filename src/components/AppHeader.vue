@@ -1,6 +1,11 @@
 <template>
   <header class="flex bg-black text-white p-5 fixed w-screen bg-opacity-60 z-50">
-    <span class="logo"><i class="fa-solid fa-leaf mint-leaf"></i> Mint Salon</span>
+    <RouterLink
+      to="/"
+      class="logo"
+    >
+      <i class="fa-solid fa-leaf mint-leaf"></i> Mint Salon
+    </RouterLink>
     <nav class="grow text-right">
       <RouterLink
         to="/"
