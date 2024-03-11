@@ -32,8 +32,4 @@
 
 </script>
 
-<style scoped>
-.mint-leaf {
-  color:#A8BBAD;
-}
-</style>
+<style scoped></style>
