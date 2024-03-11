@@ -1,5 +1,5 @@
 <template>
-  <main class="container mx-auto pt-32 px-2 fade-in">
+  <main class="container mx-auto pt-32 px-2 fade-in mb-5">
     <h1 class="text-center c-primary">Contact Us</h1>
     <div class="grid grid-cols-2 gap-10">
       <div class="col-span-2 md:col-span-2 lg:col-span-1 border-primary rounded-md px-8 py-5">
