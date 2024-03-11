@@ -1,5 +1,5 @@
 <template>
-  <header class="flex bg-black text-white p-5 fixed w-screen bg-opacity-60 z-50">
+  <header class="flex bg-black text-white p-5 fixed w-full bg-opacity-60 z-50">
     <RouterLink to="/" class="logo">
       <i class="fa-solid fa-leaf mint-leaf"></i> Mint Salon
     </RouterLink>
