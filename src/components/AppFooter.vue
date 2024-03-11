@@ -6,12 +6,12 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue';
+import { computed } from 'vue'
 
 const year = computed(() => {
-	const date = new Date();
-	return date.getFullYear();
-});
+  const date = new Date()
+  return date.getFullYear()
+})
 </script>
 
 <style scoped></style>

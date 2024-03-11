@@ -25,18 +25,12 @@
       <div class="col-span-2 md:col-span-2 lg:col-span-1 border-primary rounded-md px-8 py-5">
         <h2 class="c-primary">Contact</h2>
 
-        <div class="h3">
-          123 Main Street
-        </div>
-        <div class="h3">
-          Toronto ON M5V 3L9
-        </div>
+        <div class="h3">123 Main Street</div>
+        <div class="h3">Toronto ON M5V 3L9</div>
         <div class="h3">
           <a href="mainto:info.mint@mintfakesalon.com">info.mint@mintsalon.com</a>
         </div>
-        <div class="h3">
-          416-555-5555
-        </div>
+        <div class="h3">416-555-5555</div>
       </div>
     </div>
   </main>

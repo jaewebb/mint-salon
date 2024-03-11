@@ -2,7 +2,9 @@
   <main class="container mx-auto pt-32 px-2 fade-in">
     <h1 class="text-center c-primary">Services</h1>
     <div class="grid grid-cols-6 gap-10">
-      <div class="col-span-6 md:col-span-4 md:col-start-2 lg:col-span-3 xl:col-span-2 border-primary rounded-md px-8 py-5">
+      <div
+        class="col-span-6 md:col-span-4 md:col-start-2 lg:col-span-3 xl:col-span-2 border-primary rounded-md px-8 py-5"
+      >
         <h2 class="c-primary">Haircuts</h2>
 
         <div class="flex justify-between">
@@ -19,7 +21,9 @@
         </div>
       </div>
 
-      <div class="col-span-6 md:col-span-4 md:col-start-2 lg:col-span-3 xl:col-span-2 border-primary rounded-md px-8 py-5">
+      <div
+        class="col-span-6 md:col-span-4 md:col-start-2 lg:col-span-3 xl:col-span-2 border-primary rounded-md px-8 py-5"
+      >
         <h2 class="c-primary">Color</h2>
 
         <div class="flex justify-between">
@@ -36,7 +40,9 @@
         </div>
       </div>
 
-      <div class="col-span-6 md:col-span-4 md:col-start-2 lg:col-span-3 xl:col-span-2 border-primary rounded-md px-8 py-5">
+      <div
+        class="col-span-6 md:col-span-4 md:col-start-2 lg:col-span-3 xl:col-span-2 border-primary rounded-md px-8 py-5"
+      >
         <h2 class="c-primary">Other Services</h2>
 
         <div class="flex justify-between">
